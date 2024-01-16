@@ -116,7 +116,7 @@ if(length(args)<4) {
   popsize <- 2
   nsam <- 100
   niter <- 100
-  path_file <- "C:/Users/oSCAR/OneDrive - Universitat Oberta de Catalunya/Documentos/RsTUDIO/Populations"
+  path_file <- "~/Desktop/YuliDUROC-rSFS/testing_simulations/Sweeps/Slim-INDIVIDUALS"
 } else {
   popsize <- as.numeric(args[1])
   nsam <- as.numeric(args[2])
